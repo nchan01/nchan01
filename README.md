@@ -1,0 +1,5 @@
+- 👋 Hi, I’m nikki 
+- 👀 I’m interested in tools, interfaces and how that can augment our thinking & creativity
+- 🌱 I’m currently learning how to build a simple site that will allow for note publishingdirectly from logseq 
+- 💞️ I’m looking to collaborate on creative tools 
+- 📫 How to reach me @nikkiccccc on twitter & nchan01 [at] gmail.com
